@@ -1,2 +1,3 @@
 # odin_test
-github repo
+Mysecond Github repo!
+Hello Odin!
